@@ -1,0 +1,21 @@
+---
+App de Banco
+Reponsavel: David 
+Data: 2026-10-06
+---
+
+# Resquisito do Sistema
+
+## Regras de Negocio (RN)
+- R1 Clientes só podem transferir até R$ 10.000 por dia.
+- R2 Pagamentos de contas vencidas geram multa de 2%
+- R3 Clientes com mais de um ano de conta ganham isenção de tarifa mensal.
+
+## Requisitos Funcionais (RF)
+- R4 O aplicativo deve permitir a consulta de saldo em tempo real
+- R5 Deve ser possível realizar transferências via TED e PIX.
+- R6 O sistema deve enviar notificações de compras acima de determinado valor.
+
+## Requisito Não Funcionais (RNF)
+- R7 O app deve funcionar em dispositivos a partir da versão Android 8.0
+- R8 A tela de login deve carregar em no máximo 3 segundos em conexões 4G.
